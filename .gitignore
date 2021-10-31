@@ -1,0 +1,10 @@
+__pycache__/
+controllers/__pycache__/
+database/__pycache__/
+manager/__pycache__/
+.git/
+env/
+.idea/
+*.pyc
+*.pyo
+scripts_jupyter/.~lock.*.xlsx
