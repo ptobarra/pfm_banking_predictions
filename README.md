@@ -2,6 +2,8 @@
 
 PFM Backend Statistics project.
 
+![90-Day Bank Account Balance Prediction – Qwist](20251228%20qwist%20bank%20account%20balance%2090-day%20prediction%20model.png)
+
 # Create virtual environment
 
 Install virtualenv:
